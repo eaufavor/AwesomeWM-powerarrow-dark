@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Transmission Bittorrent Client
+GenericName=BitTorrent Client
+Comment=Download and share files over BitTorrent
+Exec=transmission-qt %F
+Icon=AWECFG/transmission.png
+Terminal=false
+Type=Application
+MimeType=application/x-bittorrent;x-scheme-handler/magnet;
+Categories=Network
+X-AppInstall-Keywords=torrent
+
